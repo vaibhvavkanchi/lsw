@@ -30,7 +30,7 @@ function Home() {
                                 <div className="justify-center text-white px-7 py-2 rounded-xl shadow-sm bg-gray-900 max-md:px-6">
                                     BUY LSW
                                 </div>
-                                <div className="justify-center px-7 py-2 bg-indigo-500 rounded-xl shadow-sm max-md:px-5">
+                                <div className="justify-center px-7 text-white py-2 bg-indigo-500 rounded-xl shadow-sm max-md:px-5">
                                     WHITE PAPER
                                 </div>
                             </div>
