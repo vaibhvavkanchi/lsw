@@ -24,11 +24,7 @@ function Home() {
                                 <span className="text-white">revolution</span>
                             </div>
                             <div className="mt-10 text-3xl font-medium text-gray-400 max-md:max-w-full">
-                                LSW aims to disrupt the traditional live streaming tipping
-                                model, <br />
-                                empowering creators, and fostering a more vibrant community
-                                <br />
-                                within the live streaming landscape.
+                                LSW aims to disrupt the traditional live streaming tipping model, empowering creators, and fostering a more vibrant community within the live streaming landscape.
                             </div>
                             <div className="flex gap-5 justify-between self-start mt-10 text-xl font-bold max-md:flex-wrap">
                                 <div className="justify-center text-white px-7 py-2 rounded-xl shadow-sm bg-gray-900 max-md:px-6">
